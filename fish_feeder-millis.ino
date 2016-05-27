@@ -2,7 +2,7 @@
 
 
 int repetitions = 10; //number of turns the servo should make
-long interval = 43200000; // interval between turns (12 hour)
+long interval = 43200000; // interval between turns (12 hours)
 unsigned long previousMillis = 43000000; // the last time the servo was turned
 
 Servo myservo;  // create servo object to control a servo
